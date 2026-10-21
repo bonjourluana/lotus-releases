@@ -6,6 +6,16 @@
         <description>Atualizações do Lotus para macOS.</description>
         <language>pt-BR</language>
         <item>
+            <title>1.0.5</title>
+            <pubDate>Wed, 21 Oct 2026 16:13:57 -0300</pubDate>
+            <link>https://github.com/bonjourluana/lotus-releases/releases</link>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/bonjourluana/lotus-releases/releases/download/v1.0.5/Lotus-1.0.5-update.zip" length="4690594" type="application/octet-stream" sparkle:edSignature="UDRvBZpCyoU7e1HP8JMTJNmHejHmEQYW4sFVdM0xUxi4ZV2KpNWzQ9FQOuoTptVV6sffoP88CklnuGMfDMPrAw=="/>
+        </item>
+        <item>
             <title>1.0.4</title>
             <pubDate>Wed, 21 Oct 2026 10:42:24 -0300</pubDate>
             <link>https://github.com/bonjourluana/lotus-releases/releases</link>
@@ -24,16 +34,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/bonjourluana/lotus-releases/releases/download/v1.0.3/Lotus-1.0.3-update.zip" length="4682322" type="application/octet-stream" sparkle:edSignature="eA2tvST3H53OQrXonv4NJXgL6+0mdPBc0P8QMPMswdrVQmuC4Ae/VzPI1/MocQH9nLva7NqlevhPfwSH7LLWBw=="/>
-        </item>
-        <item>
-            <title>1.0.2</title>
-            <pubDate>Tue, 20 Oct 2026 22:38:24 -0300</pubDate>
-            <link>https://github.com/bonjourluana/lotus-releases/releases</link>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/bonjourluana/lotus-releases/releases/download/v1.0.2-build.8/Lotus-1.0.2-update.zip" length="4676305" type="application/octet-stream" sparkle:edSignature="AO14VlGaBk5VRfZlG1bz/Ln9a5P8NqhS2zYwFq4lQ3KkvjgtCyc+6rVf6eo5rPW8mjHRBUoQJy3HlO70BxQ8Aw=="/>
         </item>
     </channel>
 </rss>
