@@ -7,6 +7,16 @@
         <language>pt-BR</language>
         <item>
             <title>1.0.2</title>
+            <pubDate>Tue, 20 Oct 2026 22:38:24 -0300</pubDate>
+            <link>https://github.com/bonjourluana/lotus-releases/releases</link>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/bonjourluana/lotus-releases/releases/download/v1.0.2-build.8/Lotus-1.0.2-update.zip" length="4676305" type="application/octet-stream" sparkle:edSignature="AO14VlGaBk5VRfZlG1bz/Ln9a5P8NqhS2zYwFq4lQ3KkvjgtCyc+6rVf6eo5rPW8mjHRBUoQJy3HlO70BxQ8Aw=="/>
+        </item>
+        <item>
+            <title>1.0.2</title>
             <pubDate>Tue, 20 Oct 2026 22:08:44 -0300</pubDate>
             <link>https://github.com/bonjourluana/lotus-releases/releases</link>
             <sparkle:version>7</sparkle:version>
@@ -24,16 +34,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/bonjourluana/lotus-releases/releases/download/v1.0.2-build.6/Lotus-1.0.2-update.zip" length="4672918" type="application/octet-stream" sparkle:edSignature="3nRtxktluyYKeY/NG81Jp9QrsWwvMdz8o4+ZFjF7AO1RoBNgN1XQIapW4zAhleidtcvNstdMK2Qkq6WSUIoiAw=="/>
-        </item>
-        <item>
-            <title>1.0.2</title>
-            <pubDate>Tue, 20 Oct 2026 21:53:05 -0300</pubDate>
-            <link>https://github.com/bonjourluana/lotus-releases/releases</link>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/bonjourluana/lotus-releases/releases/download/v1.0.2-build.5/Lotus-1.0.2-update.zip" length="4670448" type="application/octet-stream" sparkle:edSignature="i3eufEDCNeq+25QjomOcXZLIbCYQZdOYPiHv3m7OK6o/bM+7aX9O7cO+4Ti0nOpuVEP9bibN52MgrRbMRltmCA=="/>
         </item>
     </channel>
 </rss>
