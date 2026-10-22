@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Atualizações do Lotus</title>
+        <title>Atualizações do Trevo</title>
         <link>https://github.com/bonjourluana/lotus-releases/releases</link>
-        <description>Atualizações do Lotus para macOS.</description>
+        <description>Atualizações do Trevo para macOS.</description>
         <language>pt-BR</language>
+        <item>
+            <title>1.0.17</title>
+            <pubDate>Thu, 22 Oct 2026 16:30:23 -0300</pubDate>
+            <link>https://github.com/bonjourluana/lotus-releases/releases</link>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.0.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/bonjourluana/lotus-releases/releases/download/v1.0.17/Trevo-1.0.17-update.zip" length="8348494" type="application/octet-stream" sparkle:edSignature="zxEUHqz3MZ7BUEjpEmMDp84k7fjarhDi1xgYu5TzQK/IMzqF8JDf9JlguqAQw+kyHsHo7aLDoa7tZRKKZwCOAg=="/>
+        </item>
         <item>
             <title>1.0.16</title>
             <pubDate>Thu, 22 Oct 2026 16:00:57 -0300</pubDate>
@@ -24,16 +34,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/bonjourluana/lotus-releases/releases/download/v1.0.15/Lotus-1.0.15-update.zip" length="8768471" type="application/octet-stream" sparkle:edSignature="2nguu0K+FlyFs+hpcw2nEqaQQczylS+4q5z6CVZeKbH0cYKTeEzq30i1o04MRwPaa10B0PvVzfbk+ljUyhdhBA=="/>
-        </item>
-        <item>
-            <title>1.0.14</title>
-            <pubDate>Thu, 22 Oct 2026 15:52:45 -0300</pubDate>
-            <link>https://github.com/bonjourluana/lotus-releases/releases</link>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>1.0.14</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/bonjourluana/lotus-releases/releases/download/v1.0.14/Lotus-1.0.14-update.zip" length="8768470" type="application/octet-stream" sparkle:edSignature="YlnHnuvIw9emsGkX03VcOyAc/y3OjmhYjqUHJ12YluaFyq+ayQlIugDfHuEMKOIhfSXTfNPw7BbkR9G45BogDQ=="/>
         </item>
     </channel>
 </rss>
