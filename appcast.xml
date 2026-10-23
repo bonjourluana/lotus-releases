@@ -6,6 +6,16 @@
         <description>Atualizações do Trevo para macOS.</description>
         <language>pt-BR</language>
         <item>
+            <title>1.0.20</title>
+            <pubDate>Thu, 22 Oct 2026 21:07:56 -0300</pubDate>
+            <link>https://github.com/bonjourluana/lotus-releases/releases</link>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>1.0.20</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/bonjourluana/lotus-releases/releases/download/v1.0.20/Trevo-1.0.20-update.zip" length="8580615" type="application/octet-stream" sparkle:edSignature="lr1AmZTsohYb436K8QvpWJwzMVRncYouSrSTsUebpftYdLEGMYnPjCDM26ghJlv3IU6zeaOPLWqv4tcKkSzPDw=="/>
+        </item>
+        <item>
             <title>1.0.19</title>
             <pubDate>Thu, 22 Oct 2026 20:56:29 -0300</pubDate>
             <link>https://github.com/bonjourluana/lotus-releases/releases</link>
@@ -24,16 +34,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/bonjourluana/lotus-releases/releases/download/v1.0.18/Trevo-1.0.18-update.zip" length="8581891" type="application/octet-stream" sparkle:edSignature="Bk54huYnyLM5cM+qCMkFlCqdmNBsmPkcB6ok9yLzwsHR16cueCqxbLnosB6qrQnwwN147JF5S5NtKOwyZZPVDQ=="/>
-        </item>
-        <item>
-            <title>1.0.17</title>
-            <pubDate>Thu, 22 Oct 2026 16:30:23 -0300</pubDate>
-            <link>https://github.com/bonjourluana/lotus-releases/releases</link>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>1.0.17</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/bonjourluana/lotus-releases/releases/download/v1.0.17/Trevo-1.0.17-update.zip" length="8348494" type="application/octet-stream" sparkle:edSignature="zxEUHqz3MZ7BUEjpEmMDp84k7fjarhDi1xgYu5TzQK/IMzqF8JDf9JlguqAQw+kyHsHo7aLDoa7tZRKKZwCOAg=="/>
         </item>
     </channel>
 </rss>
